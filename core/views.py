@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def ping(request):
-    return HttpResponse('pong')
+    return HttpResponse('pong2')
