@@ -60,3 +60,5 @@ class AllergyDrink(models.Model):
 
     class Meta:
         db_table = 'allergy_drink'
+
+        
